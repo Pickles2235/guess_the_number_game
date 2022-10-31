@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ef03a3-9987-4a93-8619-2050b5236815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GuessTheNumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/game/BaseGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/game/GuessTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/IO.java" afterDir="false" />
+    <list default="true" id="05ef03a3-9987-4a93-8619-2050b5236815" name="Changes" comment="Base Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GuessTheNumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GuessTheNumberGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/game/BaseGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/BaseGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/game/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/GuessTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/IO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/IO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,13 @@
         <option value="Interface" />
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -42,6 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -50,6 +53,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="GuessTheNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessTheNumberGame" />
+      <module name="guessthenumber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuessTheNumberGame" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,8 +75,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667213475044</updated>
-      <workItem from="1667213475985" duration="604000" />
+      <workItem from="1667213475985" duration="3571000" />
     </task>
+    <task id="LOCAL-00001" summary="Base Project">
+      <created>1667214194710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667214194710</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Base Project">
+      <created>1667214741507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667214741507</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base Project" />
   </component>
 </project>

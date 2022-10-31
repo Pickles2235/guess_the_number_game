@@ -13,3 +13,6 @@ lower. Game should also be able to keep track of how many attempts the player ha
 * Encapsulation
 * Project Structure
 * While Loop
+* Exceptions
+* Try/Catch
+* If Statements
